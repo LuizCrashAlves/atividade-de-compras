@@ -24,9 +24,14 @@ div {
 
 input {
     background-color: gray;
+    margin-right: 5px;
 
 }
 
 button {
     cursor: pointer;
+}
+
+#saldo {
+    margin-right: 5px;
 }
